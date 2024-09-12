@@ -11,4 +11,4 @@ echo ${STRINGS[@]}
 echo "The number of names listed in the NAMES array:" ${#NAMES[@]} 
 echo "The second name on the NAMES list is:" ${NAMES[1]} 
 
-test 2
+test 2 bla bla bla
